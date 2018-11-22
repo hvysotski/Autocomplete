@@ -6,7 +6,7 @@ Actions to run:
 Admin panel:
    http://127.0.0.1:41080/manage
 
-You should change you current admin password in Activation Portal Administrarion board:
+You should change you current admin password in Autocomplete Feature Administrarion board:
     1) Login with admin/admin credentials
     2) Change password in the top right corner.
 
